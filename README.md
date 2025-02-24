@@ -27,10 +27,6 @@ git clone https://github.com/yourusername/Resono.git
 2. Open the project in Android Studio.  
 3. Build and run the app on an emulator or physical device.  
 
-## 🖼️ Screenshots  
-
-(Add screenshots of the app interface here.)  
-
 ## 📂 Project Structure  
 
 - **UI:** Jetpack Compose components for the user interface.  
